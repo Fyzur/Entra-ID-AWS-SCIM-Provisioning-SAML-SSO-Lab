@@ -121,7 +121,7 @@ Think of it like a building with a front desk. **SCIM** is HR sending the front 
 - [x] Removed a user from a group and confirmed the change synced to the app
 
 ---
-##Screenshot
+## Screenshot
 
 <img width="1631" height="842" alt="image" src="https://github.com/user-attachments/assets/eae14d77-effe-4bfe-8a50-255fa414edf0" />
 <img width="1459" height="862" alt="image" src="https://github.com/user-attachments/assets/a6440756-bf1e-4fa2-8551-74444a038574" />
